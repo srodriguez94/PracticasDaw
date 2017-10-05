@@ -32,7 +32,7 @@ public class PruebaGitHub {
     }
     
     public void fantasma() {
-    
+        System.out.println("Escribo algo");
     }
   
 }
