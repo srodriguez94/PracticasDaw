@@ -33,6 +33,7 @@ public class PruebaGitHub {
     
     public void fantasma() {
         System.out.println("Escribo algo");
+        System.out.println("y ahora modifico codigo");
     }
   
 }
