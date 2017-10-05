@@ -23,9 +23,12 @@ public class PruebaGitHub {
         
     }
     
-     public void funcio2() {
+    public void funcio2() {
         
     }
     
+    public void funcio3() {
+        
+    }
   
 }
