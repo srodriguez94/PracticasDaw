@@ -30,5 +30,9 @@ public class PruebaGitHub {
     public void funcio3() {
         
     }
+    
+    public void fantasma() {
+    
+    }
   
 }
